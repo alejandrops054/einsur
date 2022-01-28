@@ -16,4 +16,15 @@
       </div><!-- /.container-fluid -->
     </div>
     <!--Main content -->
+    <selection class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 col-ms-6 col-md-3">
+                    <div class="info-box">
+                        <h3>hola</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </selection>
   </div>

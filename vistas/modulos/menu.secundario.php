@@ -44,7 +44,7 @@
           
           <!--Productos -->
           <li class="nav-item">
-            <a href="productos" class="nav-link">
+            <a href="#" class="nav-link">
               <i class="nav-icon fas fa-barcode"></i>
               <p>Productos</p>
             </a>
@@ -58,14 +58,14 @@
               </li>
               <!--Categoria -->
               <li class="nav-item">
-                <a href="Marca" class="nav-link">
+                <a href="categorias" class="nav-link">
                   <i class="nav-icon fas fa-poll-h"></i>
                   <p>Categoria</p>
                 </a>
               </li>
               <!--Sub categoria -->
               <li class="nav-item">
-                <a href="sub" class="nav-link">
+                <a href="subcategorias" class="nav-link">
                   <i class="nav-icon fas fa-poll-h"></i>
                   <p>Sub categoria</p>
                 </a>
@@ -80,9 +80,21 @@
             </ul>
           </li>
           <!--Cotizacion -->
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="nav-icon fas fa-file-alt"></i>
+              <p>Cotizaciones</p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <i class="nav-icon fas fa-file-import"></i>
+                <p>Solicitud</p>
+              </li>
+            </ul>
+          </li>
           <!--Administracion -->
           <li class="nav-item">
-            <a href="productos" class="nav-link">
+            <a href="#" class="nav-link">
               <i class="nav-icon fas fa-tools"></i>
               <p>Ajustes</p>
             </a>

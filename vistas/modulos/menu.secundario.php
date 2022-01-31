@@ -87,8 +87,16 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <i class="nav-icon fas fa-file-import"></i>
-                <p>Solicitud</p>
+                <a href="cotizaciones" class="nav-link">
+                  <i class="nav-icon fas fa-file-signature"></i>
+                  <p>Cotizaciones</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="solicitudes" class="nav-link">
+                  <i class="nav-icon fas fa-file-import"></i>
+                  <p>Solicitudes</p>
+                </a>
               </li>
             </ul>
           </li>
